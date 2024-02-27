@@ -38,12 +38,6 @@ I am committed to contributing to the open-source community, sharing projects, a
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Expo Go](https://img.shields.io/badge/-Expo_Go-000020?style=flat-square&logo=Expo&logoColor=white)
 
-# GitHub Statistics 📈
-
-Get a snapshot of my activity with these automatically generated stats!
-
-## Contribution Graph
-![Joseph's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josephmattouk&theme=rogue)
 
 Remember to stay curious and keep coding!
 
