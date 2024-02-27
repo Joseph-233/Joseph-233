@@ -23,9 +23,7 @@ Our team of developers is proficient in a variety of technologies, ensuring we c
 I am committed to contributing to the open-source community, sharing projects, and collaborating with fellow developers to foster innovation. My contributions reflect my dedication to learning and my passion for technology.
 
 ## Connect with Me 🌐
-- LinkedIn: [Your LinkedIn profile](#)
-- Twitter: [Your Twitter profile](#)
-- Portfolio: [Your professional portfolio website](#)
+- LinkedIn: [https://www.linkedin.com/in/joseph-mattouk-20b880222/](#)
 
 ## Languages and Tools 🏷️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
