@@ -42,15 +42,6 @@ I am committed to contributing to the open-source community, sharing projects, a
 
 Get a snapshot of my activity with these automatically generated stats!
 
-## My GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmattouk&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmattouk&layout=compact&theme=radical)
-
-## Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josephmattouk&theme=dark&background=000000)
-
 ## Contribution Graph
 ![Joseph's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josephmattouk&theme=rogue)
 
