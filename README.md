@@ -33,5 +33,28 @@ I am committed to contributing to the open-source community, sharing projects, a
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+![Expo Go](https://img.shields.io/badge/-Expo_Go-000020?style=flat-square&logo=Expo&logoColor=white)
+
+# GitHub Statistics 📈
+
+Get a snapshot of my activity with these automatically generated stats!
+
+## My GitHub Stats
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmattouk&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmattouk&layout=compact&theme=radical)
+
+## Streak Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josephmattouk&theme=dark&background=000000)
+
+## Contribution Graph
+![Joseph's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josephmattouk&theme=rogue)
+
+Remember to stay curious and keep coding!
+
 
 Thank you for visiting my profile. Let's innovate together!
