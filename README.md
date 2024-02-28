@@ -11,7 +11,7 @@ At Mattouk Tech, we specialize in crafting custom software that addresses the un
 ## Our Expertise 🛠️
 Our team of developers is proficient in a variety of technologies, ensuring we can tackle any project with confidence. We're experienced in:
 
-- Python: Building robust back-end systems and AI models...
+- Python: Building robust back-end systems and AI models.
 - JavaScript (JS): Creating dynamic and interactive web experiences.
 - Cascading Style Sheets (CSS): Styling sleek and responsive user interfaces.
 - HyperText Markup Language (HTML): Structuring content for the web.
